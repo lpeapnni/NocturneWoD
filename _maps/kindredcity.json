@@ -2,7 +2,7 @@
 	"version": 1,
 	"map_name": "San Francisco",
 	"map_path": "map_files/Vampire",
-	"map_file": "SanFrancisco.dmm",
+	"map_file": "NocturneSanFran.dmm",
 	"traits": [
 		{
 			"Up": 1,
